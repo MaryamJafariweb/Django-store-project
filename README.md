@@ -17,7 +17,7 @@ This is a Django-based e-commerce platform that allows users to:
 ## Technologies Used  
 - Backend: Django  
 - Database: SQLite  
-- Frontend: HTML, CSS  
+- Frontend: HTML, CSS , javascript
 - Authentication: Django's built-in authentication system  
 - Version Control: Git & GitHub  
 
