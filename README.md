@@ -15,9 +15,9 @@ This is a Django-based e-commerce platform that allows users to:
 - Admin Panel: Manage products, users, and orders from the Django admin interface  
 
 ## Technologies Used  
-- Backend: Django, Django REST Framework  
-- Database: PostgreSQL / SQLite  
-- Frontend: HTML, CSS, Bootstrap  
+- Backend: Django  
+- Database: SQLite  
+- Frontend: HTML, CSS  
 - Authentication: Django's built-in authentication system  
 - Version Control: Git & GitHub  
 
